@@ -1,1 +1,2 @@
 hello people of the world i am learning git and getting familiar with github
+i'll try to modify this file and see about the commit command
